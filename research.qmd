@@ -5,25 +5,32 @@ subtitle: "Questions, small projects, and work in progress."
 
 <!-- RESEARCH: replace these examples with your interests and one course project. -->
 
+
 ## What I'm curious about
 
-I'm interested in how people participate in public life, how communities differ, and how data can help us ask better questions about both.
+I'm interested in the politics and political economy of the Middle East and North Africa, particularly how states in the region develop politically and economically.
 
+- **Governance and reform:** How do political institutions shape reform and development across MENA states?
+- **Economic diversification:** How are states working to reduce their dependence on traditional sources of revenue and develop new sectors?
+- **Regional and global politics:** How do international and regional dynamics influence domestic politics and economic development?
+- **Data and political analysis:** How can quantitative data help us better understand political and economic patterns across countries?
 - **Political participation:** Who gets involved, and what makes participation easier?
 - **Cities and communities:** How do local environments shape everyday choices?
 - **Data and communication:** How can a chart make a complex pattern easier to understand?
 
 ## A project I'm developing
 
-### Comparing life expectancy across countries
+### Oil Rents and Inequality in the Middle East and North Africa
 
-[COURSE PROJECT · IN PROGRESS]{.project-label}
+I am examining the relationship between oil rents and economic inequality across MENA countries using quantitative data and regression analysis.
 
-**Question.** How does life expectancy vary with income across countries in a given year?
+### Economic Diversification in the Gulf
 
-**Approach.** Use R to explore the historical Gapminder data and make a clearly labeled visualization.
+I am interested in how Gulf states are responding to economic and geopolitical change through diversification, and how political institutions influence these efforts.
 
-**What I'm learning.** Choosing the year, scale, and unit of analysis changes what readers can see. An association in a plot is a starting point for questions, not evidence of a causal effect.
+### Data Analysis in Political Science
+
+I am developing my skills in R, RStudio, GIS, and computational methods to study political and economic questions using empirical data.
 
 [Read a reflection on this project](posts/learning-from-a-chart.qmd)
 
