@@ -1,7 +1,6 @@
 ---
-title: "Notes & reflections"
-subtitle: "Ideas from class, projects, and everyday life."
-# The list updates automatically when you add a .qmd file to posts/ and render the website.
+title: "Notes & Reflections"
+subtitle: "International politics, political economy, and data."
 listing:
   contents: posts/*.qmd
   type: default
@@ -13,4 +12,4 @@ listing:
   categories: false
 ---
 
-A notebook for things I'm learning, questions I haven't answered yet, and observations I want to keep.
+A collection of short reflections on international politics, political economy, data analysis, and developments in the Middle East and North Africa.
