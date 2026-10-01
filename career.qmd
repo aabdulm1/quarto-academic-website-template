@@ -1,41 +1,67 @@
 ---
 title: "Profession & career"
-subtitle: "The work I've done and the work I'd like to try."
+subtitle: "My academic experience, research interests, and future goals."
 ---
-
-<!-- CAREER: replace these examples with your own experience. Class and volunteer projects count. -->
 
 ## Where I'd like to go
 
-I'm exploring opportunities that combine research, clear communication, and work with communities. I'm especially interested in learning how evidence informs decisions outside the classroom.
+I'm interested in a career that combines international relations, political economy, and data analysis. I am particularly interested in the Middle East and Gulf region, including questions related to economic diversification, governance, geopolitics, and global economic change.
+
+In the future, I hope to use research and empirical analysis to better understand political and economic challenges facing Kuwait and the wider Gulf region. I am also interested in pursuing graduate study in international relations, geopolitics, or political economy.
 
 ## Experience
 
-### Student researcher · Course project
+### Research Assistant · INJAZ Kuwait
 
-[FALL 2026]{.project-label}
+[2019]{.project-label}
 
-- Explore a social question using a public dataset.
-- Create a visualization in R and explain the choices behind it.
-- Share code and notes so a classmate can follow the analysis.
+- Contributed to a youth-development research project.
+- Assisted with data collection and research.
+- Gained experience connecting research with issues affecting young people in Kuwait.
 
-<!-- Add another role or volunteer project here if useful.
-     Use a heading for the role, then a date and 2–3 concrete contributions.
-     You do not need an internship to have useful experience to share. -->
+### Student Ambassador · Loyola Marymount University
+
+[SPRING 2025]{.project-label}
+
+- Worked with faculty and university staff.
+- Supported newly admitted students.
+- Helped students learn more about the university and transition into LMU.
+
+### Undergraduate Research · Loyola Marymount University
+
+[2025–2026]{.project-label}
+
+- **Advanced Empirical Methods (POLS 4100):** conducted quantitative research examining oil rents and inequality in the Middle East and North Africa.
+- Used R and RStudio for data cleaning, correlation tests, regression analysis, and data visualization.
+- **Computational Social Science for Applied Data Analysis:** developed computational approaches for studying political and social questions using data.
+- Developed experience using empirical evidence to investigate political and economic questions.
+
+## Relevant Coursework
+
+- Advanced Empirical Methods (POLS 4100)
+- Computational Social Science for Applied Data Analysis
+- Statistics
+- Introduction to Geographic Information Systems (GIS)
+- Politics of the Global Economy
+- Trade & Geopolitics
+- Comparative Politics
+- Politics in the Middle East
+- European Politics
 
 ## Skills I'm building
 
-**Research:** turning a broad interest into a focused question, finding sources, and explaining limitations.
+**Research:** developing research questions, reviewing academic sources, working with political and economic data, and interpreting empirical results.
 
-**Data:** working with R, making visualizations, and keeping a project organized.
+**Data Analysis:** using R and RStudio for data cleaning, correlation tests, regression analysis, and visualization.
 
-**Collaboration:** giving useful feedback, documenting work, and contributing to a shared project.
+**GIS:** using geographic information systems to examine spatial and political questions.
+
+**International Relations:** analyzing geopolitics, international political economy, trade, governance, and political developments in the Middle East and Gulf.
 
 ## Let's connect
 
-I'm happy to talk about projects, internships, and opportunities to learn.
+I'm interested in opportunities involving international relations, political economy, research, and data analysis.
 
-[Email me](mailto:you@example.com)
+[Email me](mailto:a93174677@gmail.com)
 
-<!-- OPTIONAL: add your real LinkedIn address here, or remove this comment. -->
-<!-- OPTIONAL CV: create a files/ folder, add resume.pdf, then use [My resume](files/resume.pdf). -->
+[LinkedIn](https://www.linkedin.com/in/ali-f-abdulmalek-9224b22ba)

@@ -67,35 +67,35 @@
     "href": "career.html",
     "title": "Profession & career",
     "section": "",
-    "text": "I’m exploring opportunities that combine research, clear communication, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom."
+    "text": "I’m interested in a career that combines international relations, political economy, and data analysis. I am particularly interested in the Middle East and Gulf region, including questions related to economic diversification, governance, geopolitics, and global economic change.\nIn the future, I hope to use research and empirical analysis to better understand political and economic challenges facing Kuwait and the wider Gulf region. I am also interested in pursuing graduate study in international relations, geopolitics, or political economy."
   },
   {
     "objectID": "career.html#where-id-like-to-go",
     "href": "career.html#where-id-like-to-go",
     "title": "Profession & career",
     "section": "",
-    "text": "I’m exploring opportunities that combine research, clear communication, and work with communities. I’m especially interested in learning how evidence informs decisions outside the classroom."
+    "text": "I’m interested in a career that combines international relations, political economy, and data analysis. I am particularly interested in the Middle East and Gulf region, including questions related to economic diversification, governance, geopolitics, and global economic change.\nIn the future, I hope to use research and empirical analysis to better understand political and economic challenges facing Kuwait and the wider Gulf region. I am also interested in pursuing graduate study in international relations, geopolitics, or political economy."
   },
   {
     "objectID": "career.html#experience",
     "href": "career.html#experience",
     "title": "Profession & career",
     "section": "Experience",
-    "text": "Experience\n\nStudent researcher · Course project\nFALL 2026\n\nExplore a social question using a public dataset.\nCreate a visualization in R and explain the choices behind it.\nShare code and notes so a classmate can follow the analysis."
+    "text": "Experience\n\nResearch Assistant · INJAZ Kuwait\n2019\n\nContributed to a youth-development research project.\nAssisted with data collection and research.\nGained experience connecting research with issues affecting young people in Kuwait.\n\n\n\nStudent Ambassador · Loyola Marymount University\nSPRING 2025\n\nWorked with faculty and university staff.\nSupported newly admitted students.\nHelped students learn more about the university and transition into LMU.\n\n\n\nUndergraduate Research · Loyola Marymount University\n2025–2026\n\nAdvanced Empirical Methods (POLS 4100): conducted quantitative research examining oil rents and inequality in the Middle East and North Africa.\nUsed R and RStudio for data cleaning, correlation tests, regression analysis, and data visualization.\nComputational Social Science for Applied Data Analysis: developed computational approaches for studying political and social questions using data.\nDeveloped experience using empirical evidence to investigate political and economic questions."
   },
   {
     "objectID": "career.html#skills-im-building",
     "href": "career.html#skills-im-building",
     "title": "Profession & career",
     "section": "Skills I’m building",
-    "text": "Skills I’m building\nResearch: turning a broad interest into a focused question, finding sources, and explaining limitations.\nData: working with R, making visualizations, and keeping a project organized.\nCollaboration: giving useful feedback, documenting work, and contributing to a shared project."
+    "text": "Skills I’m building\nResearch: developing research questions, reviewing academic sources, working with political and economic data, and interpreting empirical results.\nData Analysis: using R and RStudio for data cleaning, correlation tests, regression analysis, and visualization.\nGIS: using geographic information systems to examine spatial and political questions.\nInternational Relations: analyzing geopolitics, international political economy, trade, governance, and political developments in the Middle East and Gulf."
   },
   {
     "objectID": "career.html#lets-connect",
     "href": "career.html#lets-connect",
     "title": "Profession & career",
     "section": "Let’s connect",
-    "text": "Let’s connect\nI’m happy to talk about projects, internships, and opportunities to learn.\nEmail me"
+    "text": "Let’s connect\nI’m interested in opportunities involving international relations, political economy, research, and data analysis.\nEmail me\nLinkedIn"
   },
   {
     "objectID": "posts/hello-world.html",
@@ -152,5 +152,12 @@
     "title": "Academic interests & research",
     "section": "What I’m curious about",
     "text": "What I’m curious about\nI’m interested in the politics and political economy of the Middle East and North Africa, particularly how states in the region develop politically and economically.\n\nGovernance and reform: How do political institutions shape reform and development across MENA states?\nEconomic diversification: How are states working to reduce their dependence on traditional sources of revenue and develop new sectors?\nRegional and global politics: How do international and regional dynamics influence domestic politics and economic development?\nData and political analysis: How can quantitative data help us better understand political and economic patterns across countries?\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+  },
+  {
+    "objectID": "career.html#relevant-coursework",
+    "href": "career.html#relevant-coursework",
+    "title": "Profession & career",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\n\nAdvanced Empirical Methods (POLS 4100)\nComputational Social Science for Applied Data Analysis\nStatistics\nIntroduction to Geographic Information Systems (GIS)\nPolitics of the Global Economy\nTrade & Geopolitics\nComparative Politics\nPolitics in the Middle East\nEuropean Politics"
   }
 ]
