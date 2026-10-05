@@ -156,16 +156,16 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Academic interests & research",
+    "title": "Academic Interests & Research",
     "section": "",
-    "text": "I’m interested in the politics and political economy of the Middle East and North Africa, particularly how states in the region develop politically and economically.\n\nGovernance and reform: How do political institutions shape reform and development across MENA states?\nEconomic diversification: How are states working to reduce their dependence on traditional sources of revenue and develop new sectors?\nRegional and global politics: How do international and regional dynamics influence domestic politics and economic development?\nData and political analysis: How can quantitative data help us better understand political and economic patterns across countries?\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "My academic interests lie at the intersection of international relations, political science, political economy, and applied data analysis. I am particularly interested in how political institutions, economic conditions, and international relationships shape the development and decisions of states.\n\nInternational political economy: How do international economic relationships, trade, investment, and political interests shape the development of states?\nGovernance and political institutions: How do institutions influence economic development, political reform, and the ability of governments to respond to domestic and international challenges?\nEconomic development and diversification: How do states respond to economic change, reduce dependence on traditional sources of revenue, and develop more diversified economies?\nGeopolitics and international relations: How do regional competition, international cooperation, and relationships between states influence domestic political and economic outcomes?\nPost-conflict development: How can trade, investment, foreign assistance, and regional cooperation contribute to the economic recovery of states affected by conflict?\nApplied data analysis: How can quantitative methods, regression analysis, GIS, and computational approaches help us study political and economic questions across countries?"
   },
   {
     "objectID": "research.html#what-im-curious-about",
     "href": "research.html#what-im-curious-about",
-    "title": "Academic interests & research",
+    "title": "Academic Interests & Research",
     "section": "",
-    "text": "I’m interested in the politics and political economy of the Middle East and North Africa, particularly how states in the region develop politically and economically.\n\nGovernance and reform: How do political institutions shape reform and development across MENA states?\nEconomic diversification: How are states working to reduce their dependence on traditional sources of revenue and develop new sectors?\nRegional and global politics: How do international and regional dynamics influence domestic politics and economic development?\nData and political analysis: How can quantitative data help us better understand political and economic patterns across countries?\nPolitical participation: Who gets involved, and what makes participation easier?\nCities and communities: How do local environments shape everyday choices?\nData and communication: How can a chart make a complex pattern easier to understand?"
+    "text": "My academic interests lie at the intersection of international relations, political science, political economy, and applied data analysis. I am particularly interested in how political institutions, economic conditions, and international relationships shape the development and decisions of states.\n\nInternational political economy: How do international economic relationships, trade, investment, and political interests shape the development of states?\nGovernance and political institutions: How do institutions influence economic development, political reform, and the ability of governments to respond to domestic and international challenges?\nEconomic development and diversification: How do states respond to economic change, reduce dependence on traditional sources of revenue, and develop more diversified economies?\nGeopolitics and international relations: How do regional competition, international cooperation, and relationships between states influence domestic political and economic outcomes?\nPost-conflict development: How can trade, investment, foreign assistance, and regional cooperation contribute to the economic recovery of states affected by conflict?\nApplied data analysis: How can quantitative methods, regression analysis, GIS, and computational approaches help us study political and economic questions across countries?"
   },
   {
     "objectID": "research.html#a-project-im-developing",
@@ -180,5 +180,33 @@
     "title": "Academic interests & research",
     "section": "What comes next",
     "text": "What comes next\nI’d like to compare the same countries over time and consider what these measures leave out."
+  },
+  {
+    "objectID": "research.html#featured-research-project",
+    "href": "research.html#featured-research-project",
+    "title": "Academic Interests & Research",
+    "section": "Featured Research Project",
+    "text": "Featured Research Project\n\nPost-Conflict Economic Development: Turkey and Syria\nOne of my research projects examined how stronger and emerging economies can contribute to the economic development of weaker or post-conflict states, using the relationship between Turkey and Syria as a case study.\nThe project focused on a broader question: What role do developed and emerging economies play in supporting the economic development of less developed or post-conflict states?\nI examined how economic support can take different forms, including trade, investment, financial assistance, and regional economic cooperation. The project also considered the political side of these relationships. Assistance between states may contribute to economic recovery while also reflecting the strategic, economic, and geopolitical interests of the countries providing that support.\nThe Turkey-Syria case provided a useful way to examine the relationship between economic development and international politics because the two countries are geographically connected and their relationship combines economic, humanitarian, political, and strategic considerations.\nThis project strengthened my interest in international political economy and in understanding how economic relationships between states can influence development and recovery after conflict."
+  },
+  {
+    "objectID": "research.html#other-areas-ive-explored",
+    "href": "research.html#other-areas-ive-explored",
+    "title": "Academic Interests & Research",
+    "section": "Other Areas I’ve Explored",
+    "text": "Other Areas I’ve Explored\n\nEconomic Diversification and Rentier States\nThrough my coursework, I have explored the challenges resource-dependent states face when attempting to diversify their economies. I am particularly interested in the Gulf and in how institutional reform, human capital, economic policy, and geopolitical change influence diversification efforts.\n\n\nPolitical Economy of Migration\nI have examined the relationship between economic conditions and legal migration using Greece as a case study. This work considered how labor demand, unemployment, economic growth, and labor shortages can influence migration patterns and government policy.\n\n\nGlobal Economic Reform\nThrough research on Zimbabwe, I explored structural adjustment, economic instability, development, inequality, governance, and the political challenges associated with major economic reforms."
+  },
+  {
+    "objectID": "research.html#data-methods",
+    "href": "research.html#data-methods",
+    "title": "Academic Interests & Research",
+    "section": "Data & Methods",
+    "text": "Data & Methods\nMy Applied Data Analysis coursework complements my studies in International Relations and Political Science by allowing me to approach political and economic questions empirically.\nI have worked with R and RStudio for data cleaning, visualization, correlation testing, and regression analysis. I have also gained experience with GIS and computational social science, which allow me to examine geographic and cross-national patterns in political and economic data.\nI am interested in continuing to develop these methods and applying them to questions involving international political economy, economic development, geopolitics, and the Middle East and North Africa."
+  },
+  {
+    "objectID": "research.html#research-direction",
+    "href": "research.html#research-direction",
+    "title": "Academic Interests & Research",
+    "section": "Research Direction",
+    "text": "Research Direction\nGoing forward, I am especially interested in studying how states respond to economic and geopolitical change. I want to continue exploring the relationship between political institutions, economic development, international economic relationships, and the changing global economy, particularly in the Gulf and the broader Middle East."
   }
 ]
