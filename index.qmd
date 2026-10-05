@@ -4,45 +4,58 @@ body-classes: home-page
 page-layout: full
 ---
 
-<!-- HOME: replace the name, introduction, and email below. Keep the ::: layout lines. -->
-<!-- PREVIEW: first use Build > Render Website to generate every page, then Render this file. -->
-:::: {.home-hero}
+::: {.home-hero}
+
 ::: {.hero-copy}
+
 [STUDENT / RESEARCHER / EXPLORER]{.eyebrow}
 
 # Ali Abdulmalek {.display-name}
 
-[Making sense of the social world.]{.hero-subtitle}
+[International Relations, Political Science & Data Analysis]{.hero-subtitle}
 
-I am an undergraduate student deeply interested in the politics of the Middle East and North Africa, with a focus on how states in the region develop politically and economically. My studies explore the relationship between government institutions, economic systems, and patterns of development, as well as how regional and global dynamics influence domestic politics. I am particularly drawn to understanding the challenges of governance, reform, and economic diversification across MENA states.
+I am an undergraduate student at Loyola Marymount University studying International Relations, with minors in Political Science and Applied Data Analysis. My academic interests focus on the Middle East and North Africa, particularly the relationship between political institutions, economic development, geopolitics, and economic diversification.
 
-[Explore my research](research.qmd){.primary-link} [Say hello](mailto:you@example.com){.quiet-link}
+I am especially interested in understanding how states respond to regional and global change, and how quantitative and computational methods can be used to study political and economic questions.
+
+[Explore my research](research.qmd){.primary-link} [Say hello](mailto:aabdulm1@lion.lmu.edu){.quiet-link}
+
 :::
 
 ::: {.hero-photo}
-<!-- Replace images/profile.jpg with your photo. Update the description in fig-alt too. -->
-![](images/profile.jpg){fig-alt="Orange flowers, a sample image for this personal website."}
-:::
-::::
 
-:::: {.home-notes}
+![](images/kuwait-city.png){fig-alt="Kuwait City skyline with the Kuwait Towers"}
+
+:::
+
+:::
+
+
+::: {.home-notes}
+
 ::: {.home-note}
-[01 / IN THE CLASSROOM]{.eyebrow}
+
+[01 / ACADEMIC INTERESTS]{.eyebrow}
 
 ## Questions worth asking
 
-How do the places we live shape our opportunities? I'm learning to turn broad questions into small, careful research projects.
+My interests lie at the intersection of international relations, political science, economics, and applied data analysis. I am particularly interested in how political institutions and international forces shape economic development, governance, and change across the Middle East and North Africa.
 
 [Academic interests & research](research.qmd)
+
 :::
+
 
 ::: {.home-note}
+
 [02 / BEYOND THE CLASSROOM]{.eyebrow}
 
-## Learning by noticing
+## Learning beyond the classroom
 
-A new place, a good conversation, or a surprising chart can be the start of an idea. I keep those observations in my blog.
+Travel and experiences outside the classroom have given me opportunities to encounter different histories, political environments, cultures, and perspectives. I use this space to document some of those experiences and the questions they raise.
 
-[Read my latest notes](blog.qmd)
+[Travel & places](travel.qmd)
+
 :::
-::::
+
+:::
