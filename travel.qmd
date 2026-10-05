@@ -1,26 +1,14 @@
 ---
-title: "Travel & places"
-subtitle: "A few observations from outside my usual routine."
+title: "Travel & Places"
+subtitle: "Places, experiences, and perspectives beyond the classroom."
 ---
 
-<!-- TRAVEL: replace the image, location, and short reflection with your own. -->
+![](images/IMG_6127.jpeg){.travel-photo fig-alt="Travel photo by Ali Abdulmalek"}
 
-![](images/travel.jpg){.travel-photo fig-alt="Water flowing over Niagara Falls, surrounded by green trees."}
+## Travel & Experiences
 
-## Niagara Falls
+Travel has given me the opportunity to experience different cultures, places, and perspectives beyond the classroom. I enjoy exploring the history, landscapes, and everyday life of the places I visit.
 
-[FIELD NOTES / A DIFFERENT PACE]{.project-label}
+## Places I've Visited
 
-Some places make it easier to slow down and pay attention. Here, the movement of the water and the scale of the landscape are a reminder to look beyond the frame of a photograph.
-
-I'm interested in the small details that make a place feel different: how people move through it, where they gather, and what they stop to notice.
-
-## What I want to remember
-
-- The details that a photograph doesn't capture.
-- A question about the place or the people who live there.
-- Something I would notice differently on a return visit.
-
-<!-- Add another place by copying the image and heading pattern above. -->
-
-[More observations on the blog](blog.qmd)
+This page is a collection of some of my travel experiences and photographs. Each place has given me a different perspective and something new to remember.
