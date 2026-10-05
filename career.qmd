@@ -31,14 +31,18 @@ In the future, I hope to use research and empirical analysis to better understan
 
 [2025–2026]{.project-label}
 
-- **Advanced Empirical Methods (POLS 4100):** conducted quantitative research examining oil rents and inequality in the Middle East and North Africa.
-- Used R and RStudio for data cleaning, correlation tests, regression analysis, and data visualization.
-- **Computational Social Science for Applied Data Analysis:** developed computational approaches for studying political and social questions using data.
-- Developed experience using empirical evidence to investigate political and economic questions.
+- **Post-Conflict Economies: Turkey and Syria:** researched the role of developed and emerging economies in supporting weaker and post-conflict states, using Turkey and Syria as a case study.
+- **Structural Adjustment Program for Zimbabwe:** contributed to a research project examining Zimbabwe's political economy, economic challenges, and structural adjustment.
+- **Political Economy of Legal Immigration in Greece:** examined how economic conditions, unemployment, labor demand, and economic growth relate to patterns of legal migration in Greece.
+- **Trust in Media:** examined declining public trust in the news media and the political and partisan divisions surrounding media trust in the United States.
+- **2025 Czech Parliamentary Election:** developed an election analysis brief examining the Czech parliamentary election and its political context.
+- **Rentier States and Economic Transformation:** examined whether rentier states can evolve toward production-based economies, focusing on institutional effectiveness, governance, and the challenges of economic transformation.
+- Used quantitative, qualitative, and comparative approaches to investigate questions across international relations, political science, political economy, and applied data analysis.
+- Developed experience using empirical evidence, academic literature, political and economic data, and comparative case studies.
 
 ## Relevant Coursework
 
-- Advanced Empirical Methods (POLS 4100)
+- Advanced Empirical Methods
 - Computational Social Science for Applied Data Analysis
 - Statistics
 - Introduction to Geographic Information Systems (GIS)
