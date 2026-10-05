@@ -14,7 +14,7 @@ page-layout: full
 
 [International Relations, Political Science & Data Analysis]{.hero-subtitle}
 
-I am an undergraduate student at Loyola Marymount University studying International Relations, with minors in Political Science and Applied Data Analysis. My academic interests focus on the Middle East and North Africa, particularly the relationship between political institutions, economic development, geopolitics, and economic diversification.
+I am an undergraduate student at Loyola Marymount University, Los Angeles California, studying International Relations, with minors in Political Science and Applied Data Analysis. My academic interests focus on the Middle East and North Africa, particularly the relationship between political institutions, economic development, geopolitics, and economic diversification.
 
 I am especially interested in understanding how states respond to regional and global change, and how quantitative and computational methods can be used to study political and economic questions.
 
