@@ -1,14 +1,30 @@
 ---
 title: "Travel & Places"
-subtitle: "Places, experiences, and perspectives beyond the classroom."
+subtitle: "Places, history, and perspectives beyond the classroom."
 ---
 
-![](images/IMG_6127.jpeg){.travel-photo fig-alt="Travel photo by Ali Abdulmalek"}
+![](images/IMG_6127.jpeg){.travel-photo fig-alt="Ancient ruins of Jerash, Jordan."}
 
-## Travel & Experiences
+## Jerash, Jordan
 
-Travel has given me the opportunity to experience different cultures, places, and perspectives beyond the classroom. I enjoy exploring the history, landscapes, and everyday life of the places I visit.
+Jerash is an ancient city in northern Jordan and one of the best-preserved Roman cities in the world. The area has been inhabited for thousands of years, but the ancient city developed during the Hellenistic period and later became known as Gerasa. In 63 BC, the region came under Roman control, and Jerash became one of the cities associated with the Decapolis.
 
-## Places I've Visited
+Jerash reached an important period of growth under Roman rule. Many of the ruins that remain today were built during this period, especially during the first and second centuries AD. The city became an important center for trade and regional life.
 
-This page is a collection of some of my travel experiences and photographs. Each place has given me a different perspective and something new to remember.
+## What Is in Jerash?
+
+The archaeological site contains many remains from the ancient city. Some of the most important are the Oval Plaza, the long Colonnaded Street, the Temple of Zeus, the Temple of Artemis, the South and North Theaters, ancient public baths, city gates, and Byzantine churches.
+
+One of the most recognizable monuments is Hadrian's Arch. It was built in AD 129–130 to honor the visit of the Roman Emperor Hadrian to Gerasa. The large arch stood near the southern entrance to the ancient city.
+
+Walking through Jerash today makes it possible to see how a Roman city was organized. Its streets, temples, theaters, public spaces, and columns show the scale and importance the city once had.
+
+## My Experience
+
+Visiting Jerash gave me the opportunity to experience the history of Jordan in person. Seeing the ruins was very different from simply reading about ancient civilizations. Walking between the columns and through the remains of the city made it easier to understand how large and developed Jerash once was.
+
+As a student of International Relations, I also find places like Jerash interesting because they show how the Middle East has historically connected different civilizations, cultures, and political powers. The site reflects Greek, Roman, Byzantine, and later Islamic periods of the region's history.
+
+## Travel & Perspective
+
+For me, travel is not only about seeing new places. It is also an opportunity to understand different cultures, histories, and perspectives. Visiting historical places like Jerash helps connect what I study with the actual places and societies that shaped the region.
