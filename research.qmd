@@ -1,3 +1,4 @@
+
 ---
 title: "Academic Interests & Research"
 subtitle: "International relations, political economy, and applied data analysis."
@@ -48,6 +49,16 @@ I have examined the relationship between economic conditions and legal migration
 ### Global Economic Reform
 
 Through research on Zimbabwe, I explored structural adjustment, economic instability, development, inequality, governance, and the political challenges associated with major economic reforms.
+
+### Political Themes and Sentiment in United Nations Speeches
+
+As part of my Computational Social Science coursework, I examined United Nations General Debate speeches from 2004 to 2015 to explore recurring themes and patterns in political language.
+
+Using R and RStudio, I applied word-frequency analysis, sentiment analysis, and topic modeling to examine how subjects such as international cooperation, economic development, security, and peace appear across the speeches.
+
+I presented the analysis in an academic research poster that brings together the visualizations, findings, and limitations of the project.
+
+[**View Research Poster**](research_poster.html)
 
 
 ## Data & Methods
